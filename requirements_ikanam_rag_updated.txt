@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+matplotlib
+langchain
+sentence-transformers
+faiss-cpu
+openpyxl
+python-dotenv
+jupyter
